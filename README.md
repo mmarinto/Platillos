@@ -1,1 +1,3 @@
 # Platillos
+
+Entitat principal: Platillo
